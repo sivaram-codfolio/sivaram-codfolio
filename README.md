@@ -5,16 +5,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
+
 🔹 **Backend:** Golang, Node.js, GraphQL, REST APIs
 🔹 **Frontend:** React.js, Next.js, TypeScript, Flutter
 🔹 **Cloud & DevOps:** AWS, Docker, CI/CD
 🔹 **Databases:** PostgreSQL, MongoDB, Redis
-
-## 🌱 Currently Learning
-🔹 Advanced **DSA in Golang**
-🔹 **Microservices Architecture** & Event-Driven Systems
-🔹 **High-Performance Computing** & Distributed Systems
 
 ## 🌱 Currently Learning
 
