@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sivaram!  
+# 👋 Hey, I’m Sivaram
 
 **Full Stack Engineer** | Golang | React | AWS | Flutter  
 Passionate about **scalable systems** & **seamless user experiences**  
