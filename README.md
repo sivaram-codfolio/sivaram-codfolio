@@ -10,7 +10,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 * **Backend:** Golang, Node.js, GraphQL, REST APIs
 * **Frontend:** React.js, Next.js, TypeScript, Flutter
 * **Cloud & DevOps:** AWS, Docker, CI/CD
-* **Databases:** PostgreSQL, MongoDB, Redis
+* **Databases:** PostgreSQL, MongoDB, Redis.
 
 ## Currently Learning
 
