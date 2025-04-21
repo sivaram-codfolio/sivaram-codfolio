@@ -8,7 +8,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 ## Tech Stack
 
 * **Backend:** Golang, Node.js, GraphQL, REST APIs
-* **Frontend:** React.js, Next.js, TypeScript, Flutter
+* **Frontend:** React.js, Next.js, TypeScript, Flutter, React Native
 * **Cloud & DevOps:** AWS, Docker, CI/CD
 * **Databases:** PostgreSQL, MongoDB, Redis
 
