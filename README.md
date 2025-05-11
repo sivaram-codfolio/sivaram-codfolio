@@ -12,7 +12,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 * **Cloud & DevOps:** AWS, Docker, CI/CD
 * **Databases:** PostgreSQL, MongoDB, Redis
 
-## Currently Learnings
+## Currently Learning
 
 * Advanced **DSA in Golang**
 * **Microservices Architecture** & Event-Driven Systems
