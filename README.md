@@ -5,7 +5,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-## Tech Stackss
+## Tech Stacks
 
 * **Backend:** Golang, Node.js, GraphQL, REST APIs
 * **Frontend:** React.js, Next.js, TypeScript, Flutter, React Native
