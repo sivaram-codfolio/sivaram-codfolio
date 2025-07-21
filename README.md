@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sivaram!
 
-**Full Stack Engineer** | Golang | React | TS | AWS | Flutter  
+**Software Engineer** | React | TS | Golang | AWS | Flutter  
 Passionate about **scalable systems** & **seamless user experiences**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
